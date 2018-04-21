@@ -1,0 +1,12 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Descriptions}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Fichiers}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Proc\IeC {\'e}dure}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Transfert de donn\IeC {\'e}es entre les programmes}{4}{subsection.2.3}
+\contentsline {section}{\numberline {3}Labview}{5}{section.3}
+\contentsline {section}{\numberline {4}C++}{8}{section.4}
+\contentsline {subsection}{\numberline {4.1}$Pix2Vect.cc$}{8}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Gestion des erreurs}{8}{subsection.4.2}
+\contentsline {section}{\numberline {5}Matlab}{10}{section.5}
+\contentsline {section}{\numberline {6}Conclusion}{10}{section.6}
